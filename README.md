@@ -1,16 +1,19 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🌠
 
-<!--
-**KauanAfonso/KauanAfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kauan Afonso
 
-Here are some ideas to get you started:
+-Faço Ensino Médio com tecnico integrado de informática no Unasp-ht
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Faço curso tecnico noturno na Etec
+
+-Faço cursos a parte como [Alura](https://www.alura.com.br) e [Bradesco](https://www.ev.org.br/areas-de-interesse)
+
+-Linguagens que tive contato: Python, Js, C, C++, C#, PHP, SQL, Dart
+
+-Estou aqui para aprender e compartilhar meus projetos
+
+### Você pode entrar em contato comigo 📧
+
+kauanafon3@gmail.com
+
+![](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
