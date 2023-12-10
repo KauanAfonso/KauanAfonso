@@ -6,7 +6,25 @@ Olá, eu sou Kauan Afonso, estudante do Ensino Médio com técnico integrado em 
 - Estou sempre em busca de conhecimento, e atualmente, estou participando de cursos online oferecidos por plataformas como [Alura](https://www.alura.com.br), [Bradesco](https://www.ev.org.br/areas-de-interesse), e [OneBitCode](https://onebitcode.com/). Essas experiências têm enriquecido minha jornada de aprendizado.
 
 💻 **Linguagens de Programação:**
-- Possuo experiência em diversas linguagens, incluindo Python, JavaScript, C, C++, C#, PHP, SQL e Dart. Cada uma delas representa uma oportunidade de crescimento e desafios que estou sempre pronto para enfrentar.
+- Possuo experiência em diversas linguagens, incluindo:
+  
+  ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+  
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  
+  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+  
+  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+  
+  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+  
+  ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+  
+  ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
+  
+  ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
+
+  Cada uma dessas linguagens representa uma oportunidade de crescimento e desafios que estou sempre pronto para enfrentar.
 
 🚀 **Objetivo:**
 - Estou aqui no GitHub para aprender continuamente e compartilhar os projetos que desenvolvo. Acredito que a colaboração e o compartilhamento de conhecimento são fundamentais para o avanço coletivo na área de tecnologia.
