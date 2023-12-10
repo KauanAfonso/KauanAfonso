@@ -7,22 +7,22 @@ Olá, eu sou Kauan Afonso, estudante do Ensino Médio com técnico integrado em 
 
 💻 **Linguagens de Programação:**
 - Possuo experiência em diversas linguagens, incluindo:
-  
-  ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  
+
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
   
-  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+  [Python](https://img.icons8.com/color/48/000000/python.png) Python
   
-  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+  [C](https://img.icons8.com/color/48/000000/c-programming.png) C
   
-  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+  [C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
   
-  ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+  [C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
   
-  ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
+  [PHP](https://img.icons8.com/color/48/000000/php.png) PHP
   
-  ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
+  [SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
+  
+  [Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
 
   Cada uma dessas linguagens representa uma oportunidade de crescimento e desafios que estou sempre pronto para enfrentar.
 
