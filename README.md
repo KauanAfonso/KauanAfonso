@@ -6,23 +6,20 @@ Olá, eu sou Kauan Afonso, estudante do Ensino Médio com técnico integrado em 
 - Estou sempre em busca de conhecimento, e atualmente, estou participando de cursos online oferecidos por plataformas como [Alura](https://www.alura.com.br), [Bradesco](https://www.ev.org.br/areas-de-interesse), e [OneBitCode](https://onebitcode.com/). Essas experiências têm enriquecido minha jornada de aprendizado.
 
 💻 **Linguagens de Programação:**
-- Possuo experiência em diversas linguagens, incluindo:
+- Possuo experiência em diversas tecnologias, incluindo:
 
-   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+
+  ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
   
-  ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-  
-  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
-  
-  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-  
-  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-  
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+
   ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-  
+
   ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
-  
-  ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
+
 
   Cada uma dessas linguagens representa uma oportunidade de crescimento e desafios que estou sempre pronto para enfrentar.
 
@@ -35,3 +32,4 @@ Olá, eu sou Kauan Afonso, estudante do Ensino Médio com técnico integrado em 
 ![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
 
 Sinta-se à vontade para explorar meus repositórios e, se houver algo em que eu possa ajudar ou aprender junto, estou pronto para isso. Vamos construir algo incrível juntos! 🚀
+
