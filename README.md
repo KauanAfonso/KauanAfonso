@@ -1,33 +1,56 @@
-### Bem-vindo(a) ao meu perfil! 🌠
+<h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
+<h3 align="center">A technology enthusiast</h3>
 
-Olá, eu sou Kauan Afonso, estudante do Ensino Médio com técnico integrado em informática no Unasp-ht. Além disso, invisto meu tempo nas noites em um curso técnico na Etec, buscando aprimorar ainda mais meus conhecimentos.
+- 🔭 I’m currently working on **Bosch Brasil**
 
-📘 **Cursos e Aprendizado:**
-- Estou sempre em busca de conhecimento, e atualmente, estou participando de cursos online oferecidos por plataformas como [Alura](https://www.alura.com.br), [Bradesco](https://www.ev.org.br/areas-de-interesse), e [OneBitCode](https://onebitcode.com/). Essas experiências têm enriquecido minha jornada de aprendizado.
+- 🌱 I’m currently learning about **Web Development, AI, Web Design**
 
-💻 **Linguagens de Programação:**
-- Possuo experiência em diversas tecnologias, incluindo:
+- 👨‍💻 All of my projects are available at <a href="https://github.com/kauanAfonso/">here</a>
 
-  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- 📫 How to reach me **kauanafon3@gmail.com**
 
-  ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- 📄 Know about my experiences 
 
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  
-  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- ⚡ Fun fact **I love studying about rockets, cars, planes and reading books**
 
-  ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+<h3 align="left"> :earth_americas: &nbsp;Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kauan-afonso-0452a5295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allmosthere" height="30" width="40" /></a>
+</p>
 
-  ![SQL](https://img.icons8.com/ios/50/000000/sql.png) SQL
+<h3 align="left">:rocket: &nbsp;Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+orch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
 
-
-  Cada uma dessas linguagens representa uma oportunidade de crescimento e desafios que estou sempre pronto para enfrentar.
-
-🚀 **Objetivo:**
-- Estou aqui no GitHub para aprender continuamente e compartilhar os projetos que desenvolvo. Acredito que a colaboração e o compartilhamento de conhecimento são fundamentais para o avanço coletivo na área de tecnologia.
-
-### 📧 Como entrar em contato:
-- Você pode me enviar um e-mail para kauanafon3@gmail.com. Estou aberto a discussões, colaborações e novas amizades no mundo da programação!
 
 ![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
 
