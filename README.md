@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
 <h3 align="center">A technology enthusiast</h3>
 
-<p align="center">
+<p align="center" width="200">
   <img src="https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif" alt="Goku GIF" />
 </p>
 
