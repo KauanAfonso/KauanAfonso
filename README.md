@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
 <h3 align="center">A technology enthusiast</h3>
 
-<center>![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)</center>
+<center>[Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)</center>
 
 - 🔭 I’m currently working on **Bosch Brasil**
 
