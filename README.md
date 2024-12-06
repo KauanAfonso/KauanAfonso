@@ -51,5 +51,6 @@
 
 ![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
 
-Sinta-se à vontade para explorar meus repositórios e, se houver algo em que eu possa ajudar ou aprender junto, estou pronto para isso. Vamos construir algo incrível juntos! 🚀
+
+Feel free to explore my repositories and if there's anything that can help you or learn together, I'm ready for it. Let's make awesome code together! 🚀
 
