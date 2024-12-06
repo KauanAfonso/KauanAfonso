@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
 <h3 align="center">A technology enthusiast</h3>
 
+<center>![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)</center>
+
 - 🔭 I’m currently working on **Bosch Brasil**
 
 - 🌱 I’m currently learning about **Web Development, AI, Web Design**
@@ -49,7 +51,7 @@
   </a>
 </p>
 
-![Goku GIF](https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif)
+
 
 
 Feel free to explore my repositories and if there's anything that can help you or learn together, I'm ready for it. Let's make awesome code together! 🚀
