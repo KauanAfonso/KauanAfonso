@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **Web Development, AI, Web Design**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/kauanAfonso/](https://github.com/KauanAfonso?tab=repositories)">here</a>
+- 👨‍💻 All of my projects are available at <a href="[https://github.com/kauanAfonso/](https://github.com/KauanAfonso?tab=repositories)](https://github.com/KauanAfonso?tab=repositories)">here</a>
 
 - 📫 How to reach me **kauanafon3@gmail.com**
 
