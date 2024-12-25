@@ -1,28 +1,41 @@
-<h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
-<h3 align="center">A technology enthusiast</h3>
+# Hi 👋, I'm Kauan Afonso
 
-<p align="center" width="150">
+### A passionate technology enthusiast and developer 🚀
+
+<p align="center">
   <img src="https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif" alt="Goku GIF" />
 </p>
 
-- 🔭 I’m currently working on **Bosch Brasil**
+---
 
-- 🌱 I’m currently learning about **Web Development, AI, Web Design**
+## 🔭 Currently Working On
+- **Bosch Brasil**
 
-- 👨‍💻 All of my projects are available at <a href="[[https://github.com/kauanAfonso/](https://github.com/KauanAfonso?tab=repositories)](https://github.com/KauanAfonso?tab=repositories)](https://github.com/KauanAfonso?tab=repositories)">here</a>
+## 🌱 Currently Learning
+- **Web Development**, **AI**, **Web Design**
 
-- 📫 How to reach me **kauanafon3@gmail.com**
+## 👨‍💻 All of My Projects
+- You can explore all my projects on my [GitHub Repositories](https://github.com/KauanAfonso?tab=repositories)
 
-- 📄 Know about my experiences 
+## 📫 How to Reach Me
+- Email: [kauanafon3@gmail.com](mailto:kauanafon3@gmail.com)
 
-- ⚡ Fun fact **I love studying about rockets, cars, planes and reading books**
+## 📄 Check Out My Resume
 
-<h3 align="left"> :earth_americas: &nbsp;Connect with me:</h3>
+---
+
+### 🌍 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/kauan-afonso-0452a5295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allmosthere" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kauan-afonso-0452a5295/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">:rocket: &nbsp;Languages and Tools:</h3>
+---
+
+### 🚀 Languages and Tools
+
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -45,16 +58,30 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
-    <a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KauanAfonso&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Feel free to explore my repositories and if there's anything that can help you or learn together, I'm ready for it. Let's make awesome code together! 🚀
+---
 
+### 📈 Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate. Let's create awesome code together! 🚀
