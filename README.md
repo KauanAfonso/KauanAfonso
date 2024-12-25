@@ -34,17 +34,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KauanAfonso&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📊 GitHub Stats & Top Languages
 
----
-
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KauanAfonso&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</div>
 
 ---
 
