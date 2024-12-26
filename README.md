@@ -2,9 +2,7 @@
 
 ### A passionate technology enthusiast and developer 🚀
 
-<p align="center">
-  <img src="https://media.tenor.com/JcuSfsgy_IoAAAAC/goku-dragon-ball.gif" alt="Goku GIF" />
-</p>
+
 
 ---
 
