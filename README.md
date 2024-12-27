@@ -13,7 +13,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)  
 [![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)](https://www.python.org/)  
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](https://www.php.net/)  
 
 ---
 
