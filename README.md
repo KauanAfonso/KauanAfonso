@@ -20,9 +20,6 @@
 ## 🔭 Currently Working On
 - **Bosch Brasil**
 
-## 🌱 Currently Learning
-- **Web Development**, **AI**, **Web Design**
-
 ## 📫 How to Reach Me
 - Email: [kauanafon3@gmail.com](mailto:kauanafon3@gmail.com)
 
