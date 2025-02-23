@@ -13,7 +13,9 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" /></a>
 </p>
+
 
 ---
 
