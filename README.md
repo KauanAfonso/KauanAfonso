@@ -9,6 +9,7 @@ Tento sempre explorar novas ferramentas e trabalhando com novas tecnologias.
   <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white" alt="React" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python" /></a>
