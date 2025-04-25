@@ -35,14 +35,6 @@ Sou um desenvolvedor entusiasta da tecnologia, sempre disposto a explorar novas 
 
 ---
 
-## 📊 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanAfonso&theme=radical" alt="Contribuições" />
-</div>
-
----
-
 ## 📬 Como Entrar em Contato
 
 - **Email**: [kauanafon3@gmail.com](mailto:kauanafon3@gmail.com)
