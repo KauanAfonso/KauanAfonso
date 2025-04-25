@@ -1,7 +1,4 @@
 # 👨‍💻 Kauan Afonso
-
-Desenvolvedor apaixonado por tecnologia, focado em soluções web, back-end e integração de sistemas. Tento sempre explorar novas ferramentas e trabalhar com novas tecnologias. 
-
 ## 💻 Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
