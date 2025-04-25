@@ -1,5 +1,4 @@
-# 👨‍💻 Kauan Afonso
-## 💻 Tecnologias
+# 💻 Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
 
