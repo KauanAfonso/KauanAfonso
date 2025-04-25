@@ -1,16 +1,13 @@
 # Kauan Afonso 👨‍💻
 
-Desenvolvedor apaixonado por tecnologia, com foco em soluções web, back-end e integração de sistemas. Sempre buscando aprender e aplicar novas tecnologias para criar projetos inovadores.
+Desenvolvedor apaixonado por tecnologia, focado em soluções web, back-end e integração de sistemas.
 
----
 
 ## 🌱 Sobre Mim
 
-Sou um desenvolvedor entusiasta da tecnologia, sempre disposto a explorar novas ferramentas e trabalhar em projetos desafiadores. Tenho experiência com JavaScript, Python, PHP, Node.js e frameworks como Django e Laravel.
+Desenvolvedor entusiasta, sempre explorando novas ferramentas e trabalhando com tecnologias como JavaScript, Python, PHP, Node.js, Django e Laravel.
 
----
-
-## 💻 Tecnologias e Ferramentas
+## 💻 Tecnologias
 
 <p align="left">
   <a href="https://www.w3schools.com/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" /></a>
@@ -24,30 +21,17 @@ Sou um desenvolvedor entusiasta da tecnologia, sempre disposto a explorar novas 
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel" /></a>
 </p>
 
----
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KauanAfonso&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Linguagens" width="50%" />
 </div>
 
----
 
-## 📊 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KauanAfonso&theme=radical" alt="Contribuições" />
-</div>
-
----
-
-## 📬 Como Entrar em Contato
+## 📬 Contato
 
 - **Email**: [kauanafon3@gmail.com](mailto:kauanafon3@gmail.com)
 - **LinkedIn**: [Kauan Afonso](https://www.linkedin.com/in/kauan-afonso-0452a5295/)
 
----
-
-Sinta-se à vontade para explorar meus repositórios, colaborar em projetos ou entrar em contato para conversarmos sobre tecnologia! Vamos criar algo incrível juntos!
