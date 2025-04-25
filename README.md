@@ -8,10 +8,8 @@ Desenvolvedor apaixonado por tecnologia, focado em soluções web, back-end e in
 
 ## 📈 GitHub Stats
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KauanAfonso&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Linguagens" width="50%" />
-</div>
 
 ## 📬 Contato
 
