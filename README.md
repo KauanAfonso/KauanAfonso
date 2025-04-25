@@ -4,7 +4,7 @@ Desenvolvedor apaixonado por tecnologia, focado em soluções web, back-end e in
 
 ## 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,php,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,php,java,laravel,django)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
