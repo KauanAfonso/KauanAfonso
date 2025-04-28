@@ -1,6 +1,6 @@
 # 💻 Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwild,bootstrap,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
