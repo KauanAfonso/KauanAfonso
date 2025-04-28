@@ -1,6 +1,7 @@
 # 💻 HI, I am Kauan Afonso
 
-This space brings together projects, studies, and experiments developed with the goal of improving technical skills and deepening knowledge in programming and technology. I am constantly seeking to learn new tools, explore best development practices, and share what I have been building throughout my journey.
+This space brings together projects, studies, and experiments developed with the goal of improving technical skills and deepening knowledge in programming and technology. I am constantly seeking to learn new tools, explore best development practices, and share what I have been building throughout my journey. 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,bootstrap,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
