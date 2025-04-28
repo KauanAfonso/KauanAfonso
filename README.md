@@ -5,7 +5,7 @@ Welcome to my repository! Here, I bring together projects, studies, and experime
 
 ---
 
-## 💻Estatísticas do GitHub
+## 💻Github satistcs 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Linguagens" width="48%" />
@@ -14,9 +14,8 @@ Welcome to my repository! Here, I bring together projects, studies, and experime
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 - **Email**: [kauanafon3@gmail.com](mailto:kauanafon3@gmail.com)
 - **LinkedIn**: [Kauan Afonso](https://www.linkedin.com/in/kauan-afonso-0452a5295/)
 
----
