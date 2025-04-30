@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to crafting innovative solutions and continuously advancing my expertise in programming and technology. This space showcases my projects, experiments, and learning journey, reflecting my commitment to mastering new tools and embracing best development practices.
 
+---
+
 ## 🛠️ Skills
 [![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,bootstrap,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
 
