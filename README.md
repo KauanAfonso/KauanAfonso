@@ -1,6 +1,9 @@
-# ⭐Hi, I am Kauan!!
+#⭐ Kauan Afonso
 
-Welcome to my repository! Here, I bring together projects, studies, and experiments developed with the goal of enhancing my technical skills and deepening my knowledge in programming and technology. I am constantly seeking to learn new tools, explore best development practices, and share what I have been building throughout my journey.<br/>
+Welcome to my GitHub profile! I'm a passionate developer dedicated to crafting innovative solutions and continuously advancing my expertise in programming and technology. This space showcases my projects, experiments, and learning journey, reflecting my commitment to mastering new tools and embracing best development practices.
+
+
+## 🛠️ Skills
 [![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,bootstrap,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
 
 ---
