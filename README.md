@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to crafting i
 
 ## 🛠️ Skills
 [![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,typescript,bootstrap,react,nodejs,python,php,java,laravel,django,fastapi,c,git)](https://skillicons.dev)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanAfonso&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
